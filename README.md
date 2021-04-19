@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @JisuTheGreat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in gaming
+- 🌱 I’m currently learning graphics & web designing 
+
+
+- 📫 Want to contact me ? 
 
 <!---
 JisuTheGreat/JisuTheGreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
